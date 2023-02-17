@@ -1,0 +1,11 @@
+C:\Users\DELTA\source\repos\Kalkylator\Kalkylator\bin\Debug\Kalkylator.exe.config
+C:\Users\DELTA\source\repos\Kalkylator\Kalkylator\bin\Debug\Kalkylator.exe
+C:\Users\DELTA\source\repos\Kalkylator\Kalkylator\bin\Debug\Kalkylator.pdb
+C:\Users\DELTA\source\repos\Kalkylator\Kalkylator\obj\Debug\Kalkylator.csproj.AssemblyReference.cache
+C:\Users\DELTA\source\repos\Kalkylator\Kalkylator\obj\Debug\Kalkylator.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELTA\source\repos\Kalkylator\Kalkylator\obj\Debug\Kalkylator.Properties.Resources.resources
+C:\Users\DELTA\source\repos\Kalkylator\Kalkylator\obj\Debug\Kalkylator.csproj.GenerateResource.cache
+C:\Users\DELTA\source\repos\Kalkylator\Kalkylator\obj\Debug\Kalkylator.csproj.CoreCompileInputs.cache
+C:\Users\DELTA\source\repos\Kalkylator\Kalkylator\obj\Debug\Kalkylator.exe
+C:\Users\DELTA\source\repos\Kalkylator\Kalkylator\obj\Debug\Kalkylator.pdb
+C:\Users\DELTA\source\repos\Kalkylator\Kalkylator\obj\Debug\Kalkylator.Kalkylator.resources
