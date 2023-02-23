@@ -15,6 +15,7 @@ namespace Kalkylator
     {
         private List<double> numbers = new List<double>();
         private List<string> operations = new List<string>();
+        bool operationsPerformed = false;
 
         public Kalkylator()
         {
@@ -49,6 +50,7 @@ namespace Kalkylator
             display.Text = result.ToString();
             numbers.Clear();
             operations.Clear();
+            operationsPerformed = true;
         }
 
         private void one_Click(object sender, EventArgs e)
@@ -103,6 +105,11 @@ namespace Kalkylator
 
         private void UpdateValue(string number)
         {
+            if (operationsPerformed)
+            {
+                display.Clear();
+                operationsPerformed = false;
+            }
             display.Text += number;
         }
 
